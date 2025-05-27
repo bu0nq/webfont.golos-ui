@@ -1,0 +1,40 @@
+{
+  "name": "@bu0nq/webfont.golos-ui",
+  "version": "0.1.0",
+  "description": "Package for integrating WebFont Golos UI",
+  "main": "golos-ui.css",
+  "files": [
+    "**/*.{woff2, woff}",
+    "**/*.{css, less, scss}"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/webfont.golos-ui.git"
+  },
+  "keywords": [
+    "golos-ui",
+    "font",
+    "typeface",
+    "webfont",
+    "woff",
+    "woff2",
+    "css",
+    "less",
+    "scss"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/webfont.golos-ui/issues"
+  },
+  "homepage": "https://github.com/bu0nq/webfont.golos-ui#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
