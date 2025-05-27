@@ -78,8 +78,8 @@ body {
 ### Importing
 
 ```scss
-@import "~@wikiline/webfont.golos-ui/scss/golos-ui";
-@import "~@wikiline/webfont.golos-ui/scss/golos-ui-normal";
+@import "~@bu0nq/webfont.golos-ui/scss/golos-ui";
+@import "~@bu0nq/webfont.golos-ui/scss/golos-ui-normal";
 ```
 
 To import specific fonts, you can use:
