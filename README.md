@@ -78,16 +78,16 @@ body {
 ### Importing
 
 ```scss
-@import "~@bu0nq/webfont.golos-ui/scss/golos-ui";
-@import "~@bu0nq/webfont.golos-ui/scss/golos-ui-normal";
+@use "~@bu0nq/webfont.golos-ui/scss/golos-ui";
+@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@import "~@bu0nq/webfont.golos-ui/scss/golos-ui-400-normal";
-@import "~@bu0nq/webfont.golos-ui/scss/golos-ui-500-normal";
-@import "~@bu0nq/webfont.golos-ui/scss/golos-ui-700-normal";
+@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-400-normal";
+@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-500-normal";
+@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-700-normal";
 ```
 
 ## Licensing
