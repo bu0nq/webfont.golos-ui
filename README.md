@@ -28,16 +28,16 @@ body {
 ### Importing
 
 ```css
-@import "~@bu0nq/webfont.golos-ui/golos-ui.css";
-@import "~@bu0nq/webfont.golos-ui/golos-ui-normal.css";
+@import "@bu0nq/webfont.golos-ui/golos-ui.css";
+@import "@bu0nq/webfont.golos-ui/golos-ui-normal.css";
 ```
 
 To import specific fonts, you can use:
 
 ```css
-@import "~@bu0nq/webfont.golos-ui/css/golos-ui-400-normal.css";
-@import "~@bu0nq/webfont.golos-ui/css/golos-ui-500-normal.css";
-@import "~@bu0nq/webfont.golos-ui/css/golos-ui-700-normal.css";
+@import "@bu0nq/webfont.golos-ui/css/golos-ui-400-normal.css";
+@import "@bu0nq/webfont.golos-ui/css/golos-ui-500-normal.css";
+@import "@bu0nq/webfont.golos-ui/css/golos-ui-700-normal.css";
 ```
 
 ## Usage (LESS)
@@ -53,16 +53,16 @@ body {
 ### Importing
 
 ```less
-@import "~@bu0nq/webfont.golos-ui/golos-ui";
-@import "~@bu0nq/webfont.golos-ui/golos-ui-normal";
+@import "@bu0nq/webfont.golos-ui/golos-ui";
+@import "@bu0nq/webfont.golos-ui/golos-ui-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```less
-@import "~@bu0nq/webfont.golos-ui/less/golos-ui-400-normal";
-@import "~@bu0nq/webfont.golos-ui/less/golos-ui-500-normal";
-@import "~@bu0nq/webfont.golos-ui/less/golos-ui-700-normal";
+@import "@bu0nq/webfont.golos-ui/less/golos-ui-400-normal";
+@import "@bu0nq/webfont.golos-ui/less/golos-ui-500-normal";
+@import "@bu0nq/webfont.golos-ui/less/golos-ui-700-normal";
 ```
 
 ## Usage (SCSS)
@@ -78,16 +78,16 @@ body {
 ### Importing
 
 ```scss
-@use "~@bu0nq/webfont.golos-ui/scss/golos-ui";
-@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-normal";
+@use "@bu0nq/webfont.golos-ui/scss/golos-ui";
+@use "@bu0nq/webfont.golos-ui/scss/golos-ui-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-400-normal";
-@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-500-normal";
-@use "~@bu0nq/webfont.golos-ui/scss/golos-ui-700-normal";
+@use "@bu0nq/webfont.golos-ui/scss/golos-ui-400-normal";
+@use "@bu0nq/webfont.golos-ui/scss/golos-ui-500-normal";
+@use "@bu0nq/webfont.golos-ui/scss/golos-ui-700-normal";
 ```
 
 ## Licensing
